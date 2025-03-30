@@ -7,7 +7,7 @@ This project uses a 1D Convolutional Neural Network to predict stellar parameter
 
 ## Files
 
-- `AdvDL_A1CNN.ipynb`: Main training and evaluation notebook
+- `stellarCNN.ipynb`: Main training and evaluation notebook
 - `data/`: raw `.npy` files (not uploaded — too large). Download from:
 - https://huggingface.co/datasets/simbaswe/galah4/blob/main/spectra.npy
 - https://huggingface.co/datasets/simbaswe/galah4/blob/main/labels.npy

@@ -4,7 +4,7 @@ This project uses a 1D Convolutional Neural Network to predict key stellar prope
 
 ## Project Overview
 
-We build and train a regression model using PyTorch to extract stellar parameters from high-dimensional spectral inputs. The improved version of the model also estimates predictive uncertainty under a Gaussian assumption.
+Regression model implemented with PyTorch to extract stellar parameters spectral inputs. The improved version of the model also estimates predictive uncertainty under a Gaussian assumption.
 
 ## Files
 

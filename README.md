@@ -17,7 +17,7 @@ Regression model implemented with PyTorch to extract stellar parameters spectral
 - `data/`:  
   Directory for large `.npy` files. Not included due to size constraints.
 
-- `CNNhelper.py/`: 
+- `CNNhelper.py/`:
   Helper functions such as normalization, denormalization, train_NN, eval_NN, etc. 
 
 ### Data Sources

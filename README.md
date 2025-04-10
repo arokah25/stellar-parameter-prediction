@@ -1,10 +1,8 @@
 # Stellar Parameter Prediction with 1D CNN
 
-This project uses a 1D Convolutional Neural Network to predict key stellar properties — effective temperature (T_eff), surface gravity (log_g), and metallicity ([Fe/H]) — from GALAH spectral data.
-
 ## Project Overview
 
-Regression model implemented with PyTorch to extract stellar parameters spectral inputs. The improved version of the model also estimates predictive uncertainty under a Gaussian assumption.
+1D CNN implemented with PyTorch to predict key stellar properties (effective temperature (T_eff), surface gravity (log_g), and metallicity [Fe/H]). The improved version of the model also estimates predictive uncertainty under a Gaussian assumption.
 
 ## Files
 

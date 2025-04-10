@@ -7,7 +7,8 @@ This project uses a 1D Convolutional Neural Network to predict stellar parameter
 
 ## Files
 
-- `stellar_1DCNN_regression.ipynb`: 1st iteration -- simple NN regression prediction 3 features from stellar-spectra. 
+- `stellar_1DCNN_regression.ipynb`: 1st iteration -- simple NN regression prediction features (temperature, gravity, metallicity) from stellar-emission spectra.
+- 'stellar_uncertainty_predictionCNN (2).ipynb': improved model + also predicting uncertainties around the estimates (assumption: uncertainties follows Gaussian distribution)
 - `data/`: raw `.npy` files (not uploaded — too large). Download from:
 - https://huggingface.co/datasets/simbaswe/galah4/blob/main/spectra.npy
 - https://huggingface.co/datasets/simbaswe/galah4/blob/main/labels.npy
